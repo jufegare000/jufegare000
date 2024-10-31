@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm [Your Name]! 👋
 
-<!--
-**jufegare000/jufegare000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about technology and innovation.
 
-Here are some ideas to get you started:
+## 🚀 My Skills
+- **Languages**: Java, Go, Scala, Javascript, Python
+- **Frameworks**: Spring, Micronaut, Scala Play, React
+- **Tools**: AWS, GCP, Azure, Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jufegare000&show_icons=true)
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/juan-gallo-648a12180/)
+
+
+## 💼 Featured Projects
+- [Crean architecture in java](https://github.com/jufegare000/clea-architecture-utils)
+- [Algorithms in golang](https://github.com/web3foru/computer-science-group-golang)
+
+Feel free to explore my repositories and reach out if you want to collaborate or just chat!
+
