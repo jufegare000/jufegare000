@@ -3,6 +3,7 @@
 I'm a software developer passionate about technology and innovation.
 
 ## 🚀 My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - **Languages**: Java, Go, Scala, Javascript, Python
 - **Frameworks**: Spring, Micronaut, Scala Play, React
 - **Tools**: AWS, GCP, Azure, Docker, Kubernetes
