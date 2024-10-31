@@ -3,10 +3,13 @@
 I'm a software developer passionate about technology and innovation.
 
 ## 🚀 My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-- **Languages**: Java, Go, Scala, Javascript, Python
-- **Frameworks**: Spring, Micronaut, Scala Play, React
-- **Tools**: AWS, GCP, Azure, Docker, Kubernetes
+
+- **Languages**:\
+[![My Skills](https://skillicons.dev/icons?i=java,go,scala,js)](https://skillicons.dev)
+- **Frameworks**:\
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,angular,kafka)](https://skillicons.dev)
+- **Tools**:\
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jufegare000&show_icons=true)
