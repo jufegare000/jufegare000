@@ -5,11 +5,11 @@ I'm a software developer passionate about technology and innovation.
 ## 🚀 My Skills
 
 - **Languages**:\
-[![My Skills](https://skillicons.dev/icons?i=java,go,scala,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,scala,js,python)](https://skillicons.dev)
 - **Frameworks**:\
 [![My Skills](https://skillicons.dev/icons?i=spring,nodejs,angular,kafka)](https://skillicons.dev)
 - **Tools**:\
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,azure,docker,kubernetes)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jufegare000&show_icons=true)
