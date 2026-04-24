@@ -1,5 +1,3 @@
-# Hello, I'm Juan Gallo! 👋
-
 I'm a software developer passionate about technology and innovation.
 
 ## Skills
