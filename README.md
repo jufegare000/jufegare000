@@ -2,7 +2,7 @@
 
 I'm a software developer passionate about technology and innovation.
 
-## 🚀 My Skills
+## Skills
 
 - **Languages**:\
 [![My Skills](https://skillicons.dev/icons?i=java,go,scala,js,python)](https://skillicons.dev)
@@ -14,11 +14,11 @@ I'm a software developer passionate about technology and innovation.
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jufegare000&show_icons=true)
 
-## 📫 Connect with Me
+## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/juan-gallo-648a12180/)
 
 
-## 💼 Featured Projects
+## Featured Projects
 - [Crean architecture in java](https://github.com/jufegare000/clea-architecture-utils)
 - [Algorithms in golang](https://github.com/web3foru/computer-science-group-golang)
 
