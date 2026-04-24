@@ -9,7 +9,6 @@ I'm a software developer passionate about technology and innovation.
 - **Tools**:\
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,azure,docker,kubernetes)](https://skillicons.dev)
 
-## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jufegare000&show_icons=true)
 
 ## Connect with Me
