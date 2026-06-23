@@ -59,6 +59,9 @@ Since 2025 I teach Operating Systems at Universidad de Antioquia's undergraduate
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jufegare000&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jufegare000&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=jufegare000&hide_border=true" height="150"/>
+</p>
 
 [LinkedIn](https://www.linkedin.com/in/juan-gallo-648a12180/)
